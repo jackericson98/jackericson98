@@ -5,7 +5,7 @@ I am a computational physicist with expertise in data science, numerical analysi
 
 ##### Python programming, Data analysis, Machine learning, Cloud computing, Simulations
 
-I am passionate about using my skills in scince and technology to develop energy solutions to promote a more sustainable future. My career objective is to pursue a PhD in high energy Nuclear Physics to join the emerging fiels of positive Q Nuclear Fusion development.
+I am passionate about using my skills in scince and technology to develop energy solutions to promote a more sustainable future. My career objective is to pursue a PhD in high energy Nuclear Physics to work towards developing the new generation of fusion powerplants that will power the future. 
 
 ## Projects
 ### Vorpy 
