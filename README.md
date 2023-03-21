@@ -3,11 +3,11 @@
 ## About Me
 I am a computational physicist with expertise in data science, numerical analysis and scientific simulations. I currently work at Georgia State University and specialize in developing software that solves complex problems in molecular analysis. My skills include:
 
-Python programming
-Data analysis
-Machine learning
-Cloud computing
-Simulations 
+##### Python programming
+##### Data analysis
+##### Machine learning
+##### Cloud computing
+##### Simulations
 
 ## Projects
 ### Vorpy 
@@ -23,11 +23,11 @@ The Grand Unified Theory of Classical Physics, develiped by Dr. Randall Mills, e
 
 ## Education
 ### University of Georgia
-January 2017 - August 2019
+##### January 2017 - August 2019
 I recieved my Bachelor's degree in Physics with an emphasis in Electrodynamics and Computational Optics. I was able to graduate a year early while still taking adiditonal coursework in Mathematics, Engineering and Computer Science 
 
 ### Georgia State University
-August 2019 - Present
+##### August 2019 - Present
 I have been taking adiditonal coursework to work towards a degree in Data Science and have been employed by the Chemistry Department developing analysis software since 2021.  
 
 ### Relevant Coursework
