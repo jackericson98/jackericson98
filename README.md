@@ -1,5 +1,3 @@
-
-
 # Jack Ericson
 
 ## About Me
@@ -12,6 +10,7 @@ Cloud computing
 Simulations 
 
 ## Projects
+![image](https://user-images.githubusercontent.com/62311229/226678881-58b155eb-59d6-43ce-98cc-21f83d026933.png)
 ### Vorpy 
 A molecular analysis tool for the study of simulated inter atomic partitionings. With traditional partitionings, power diagrams or Delaunay networks are constructed. This software creates it's partitionings using a sampling of points from a Voronoi S-Network. This provides more detailed measurements of volumes and surface areas of relevant atominc groupings (residues, chains, sheets, etc.) In combination with molecular simulation software, the evolution of these measurements can provide insight into key biological processes.
 
