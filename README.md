@@ -1,9 +1,9 @@
 # Jack Ericson
 
 ## About Me
-I am a computational physicist with expertise in data science, numerical analysis and scientific simulations. I currently work at Georgia State University and specialize in developing software that solves complex problems in molecular analysis. My skills include:
+I am a computational physicist with expertise in data science, numerical analysis and scientific simulations. I currently work at Georgia State University and specialize in developing software that solves complex problems in molecular analysis. My expertise includes:
 
-##### Python programming, Data analysis, Machine learning, Cloud computing, Simulations
+##### Python programming, Statistical analysis, Machine learning, Physical Simulations, Numerical Analysis and Customer Service
 
 I am passionate about using my skills in scince and technology to develop energy solutions to promote a more sustainable future. My career objective is to pursue a PhD in high energy Nuclear Physics to work towards developing the new generation of fusion powerplants that will power the future. 
 
