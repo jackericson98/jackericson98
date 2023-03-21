@@ -3,11 +3,9 @@
 ## About Me
 I am a computational physicist with expertise in data science, numerical analysis and scientific simulations. I currently work at Georgia State University and specialize in developing software that solves complex problems in molecular analysis. My skills include:
 
-##### Python programming
-##### Data analysis
-##### Machine learning
-##### Cloud computing
-##### Simulations
+##### Python programming, Data analysis, Machine learning, Cloud computing, Simulations
+
+I am passionate about using my skills in scince and technology to develop energy solutions to promote a more sustainable future. My career objective is to pursue a PhD in high energy Nuclear Physics to join the emerging fiels of positive Q Nuclear Fusion development.
 
 ## Projects
 ### Vorpy 
