@@ -20,11 +20,11 @@ The Grand Unified Theory of Classical Physics, develiped by Dr. Randall Mills, e
 ![image](https://user-images.githubusercontent.com/62311229/226679141-5f5824d7-2d00-439a-8616-b3fc049a86b6.png)
 
 ## Education
-### University of Georgia
+### University of Georgia - B.S. Physics
 ##### January 2017 - August 2019
 I recieved my Bachelor's degree in Physics with an emphasis in Electrodynamics and Computational Optics. I was able to graduate a year early while still taking adiditonal coursework in Mathematics, Engineering and Computer Science 
 
-### Georgia State University
+### Georgia State University - Data Science, Chemistry
 ##### August 2019 - Present
 I have been taking adiditonal coursework to work towards a degree in Data Science and have been employed by the Chemistry Department developing analysis software since 2021.  
 
