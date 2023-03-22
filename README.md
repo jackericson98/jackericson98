@@ -5,7 +5,7 @@ I am a computational physicist with expertise in data science, numerical analysi
 
 ## Projects
 ### Vorpy 
-A molecular analysis tool for the study of simulated inter atomic partitionings. With traditional partitionings, power diagrams or Delaunay networks are constructed. This software creates it's partitionings using a sampling of points from a Voronoi S-Network. This provides more detailed measurements of volumes and surface areas of relevant atominc groupings (residues, chains, sheets, etc.) In combination with molecular simulation software, the evolution of these measurements can provide insight into key biological processes.
+A molecular analysis tool for the study of simulated inter atomic partitionings. With traditional partitionings, power diagrams or Delaunay networks are constructed. This software creates it's partitionings using a sampling of points from a Voronoi S-Network providing more detailed measurements of volumes and surface areas of relevant atominc groupings (residues, chains, sheets, etc.) In combination with molecular simulation software, the evolution of these measurements can provide insight into key biological processes.
 
 ### Nuclear Magnetic Resonance analysis
 The use of Nuclear Magnetic Resonance (NMR) data is used to analyze biological processes as they occur. By perturbing the electrons and analyzing the signals, movements can be tracked from nanosecond interactions. This NMR data tends to be stochastic and seemingly random, but with the use of principal component analysis and time series analysis certain phenomena were able to be extracted.
