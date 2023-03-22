@@ -10,14 +10,16 @@ A molecular analysis tool for the study of simulated inter atomic partitionings.
 ![image](https://user-images.githubusercontent.com/62311229/226782162-57c6240e-0f02-45b5-8fca-9f6503bb9c75.png)
 
 
-### Nuclear Magnetic Resonance analysis
-The use of Nuclear Magnetic Resonance (NMR) data is used to analyze biological processes as they occur. By perturbing the electrons and analyzing the signals, movements can be tracked from nanosecond interactions. This NMR data tends to be stochastic and seemingly random, but with the use of principal component analysis and time series analysis certain phenomena were able to be extracted.
-
-
 ### GUTCP - A classical approach to the standard model
 The Grand Unified Theory of Classical Physics, develiped by Dr. Randall Mills, experiments with the idea of using electromagnetism to unify quantum mechanics with classical physics. These phenomena are simulated using python, starting with the Young's double slit experiment and Stern-Gerlach with the "classical electron".
 ![image](https://user-images.githubusercontent.com/62311229/226791808-79d0d7e7-aaea-4e59-b5ca-6e6e268bfbd9.png)
  -current vector feilds forming the electromagnetic current of the classical electron. By rotating the red currents around their green angular momentum vector (left) the domain of the current can be described (middle). The two configurations are then combined to show the full geometric representation of the 
+ 
+ ### Nuclear Magnetic Resonance analysis
+The use of Nuclear Magnetic Resonance (NMR) data is used to analyze biological processes as they occur. By perturbing the nuclei of atoms (similar to MRI) and recording the frequency of the radiation that is returned atomic movements can be tracked at the nanosecond scale. 
+
+### Molecular Dynamics 
+Molecular dynamics (MD) uses physicallys realistic physics packages to leapfrog atomic movements and predict biological and other atomic scale interactions. These interactions tends to be stochastic and provide large amounts of data. With the use of principal component and time series analysis physically significant phenomena are able to be extracted and measured. 
 
 ## Education
 ### University of Georgia - B.S. Physics
@@ -26,27 +28,25 @@ I recieved my Bachelor's degree in Physics with an emphasis in Electrodynamics a
 
 ### Georgia State University - Data Science, Chemistry
 ##### August 2019 - Present
-I have been taking adiditonal coursework to work towards a degree in Data Science and have been employed by the Chemistry Department developing analysis software since 2021.  
+I have been taking adiditonal coursework to work towards a degree in Data Science and have been employed by the Chemistry Department developing analysis software since 2021. 
 
 ### Relevant Coursework
 #### Physics
-Modern Physics, Mathematical Methods in Physics, Thermodynamics, Electicity and Magnetism (I, II), Optics, Electronics, Quantum Mechanics, Mechanics
+Modern Physics, Math Methods in Physics, Thermodynamics, Electicity and Magnetism, Optics, Electronics, Quantum Mechanics, Mechanics
 #### Mathematics
-Discrete Math, Calculus (I, II, III), Ordinary Differential Equations, Partial Differential Equations, Math Proofs, Sequences and Series, Linear Algebra, Advanced Linear Algebra
+Partial Differential Equations, Math Proofs, Sequences and Series, Advanced Linear Algebra
 #### Computer/Data Science
-Scientific Programming, MATLAB programming for engineers, Introduction to Data Science (II), Data Structures, Machine Learning (in Progress), Big Data Programming (In Progress)
+Data Structures, Machine Learning (in Progress), Big Data Programming (In Progress)
 
 ![image](https://user-images.githubusercontent.com/62311229/226680603-21aaea4c-7648-417e-83ac-7c1ce6031d4f.png)
 
 ## Research
 #### University of Georgia
 2018 - Physics Department - Dr.Zhao
-My research centered around the study of the Faraday rotation of polarized light in certain dielectric materials under the influence of a strong magnetic field. Using a 90A electro magnet and several optical measuring devices, a polarized light beam would be directed through a dielctric and the angle of polarization would vary depending on the magnetic field applied to that dielectric matereal and the dielectric material itself. 
+Working in an optics lab we measured the Faraday rotation of polarized light in various dielectric materials under a strong magnetic field. Controlling the rotation of polarized light has applicatopns in ranging technologies from visual display to fiber optics. 
 
 #### Georgia State University
-My research at Georgias State consists of the development of several chemical analysis models written in python. These models have been used to demonstrate phenomenon in Nuclear Magnetic Resonance (NMR) data as well as X-Ray Crystyllographic data. The data from NMR modles were analyzed using time series analysis and principal component analysis techniques. 
-
-The other aspect of my research is the developemnt of a simulated molecular partitioning and analysis tool (see vorpy). This is the first ever Voronois S-network atomic partitioning tool. The Voronoi S-network Partitioning provides the most precise inter-atomic surface area and volume measurments. For Example: The volume of a molecule in solution could be determined by the summation of the volumes of all of the molecule's atomic partitionings. 
+With the chemistry department at Georgia State University I was able to research methods of analyzing Nuclear Magnetic Resonance data and develop models of fitting relaxation data. The development  development of several chemical analysis models written in python. These models have been used to demonstrate phenomenon in Nuclear Magnetic Resonance (NMR) data as well as X-Ray Crystyllographic data. T
 
 
 ## Contact
