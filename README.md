@@ -15,8 +15,9 @@ The use of Nuclear Magnetic Resonance (NMR) data is used to analyze biological p
 
 
 ### GUTCP - A classical approach to the standard model
-The Grand Unified Theory of Classical Physics, develiped by Dr. Randall Mills, experiments with the idea of using electromagnetism to unify quantum mechanics with classical physics. These phenomena are simulated using python, starting with the Young's double slit experiment and Stern-Gerlach with the "classical electron". 
-![image](https://user-images.githubusercontent.com/62311229/226783807-6721c37c-c77c-4f61-ab65-1f8594c7dada.png)
+The Grand Unified Theory of Classical Physics, develiped by Dr. Randall Mills, experiments with the idea of using electromagnetism to unify quantum mechanics with classical physics. These phenomena are simulated using python, starting with the Young's double slit experiment and Stern-Gerlach with the "classical electron".
+![image](https://user-images.githubusercontent.com/62311229/226791808-79d0d7e7-aaea-4e59-b5ca-6e6e268bfbd9.png)
+ -current vector feilds forming the electromagnetic current of the classical electron. By rotating the red currents around their green angular momentum vector (left) the domain of the current can be described (middle). The two configurations are then combined to show the full geometric representation of the 
 
 ## Education
 ### University of Georgia - B.S. Physics
