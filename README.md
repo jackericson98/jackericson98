@@ -7,13 +7,16 @@ I am a computational physicist with expertise in data science, numerical analysi
 ### Vorpy 
 A molecular analysis tool for the study of simulated inter atomic partitionings. With traditional partitionings, power diagrams or Delaunay networks are constructed. This software creates it's partitionings using a sampling of points from a Voronoi S-Network providing more detailed measurements of volumes and surface areas of relevant atominc groupings (residues, chains, sheets, etc.) In combination with molecular simulation software, the evolution of these measurements can provide insight into key biological processes.
 
+![image](https://user-images.githubusercontent.com/62311229/226782162-57c6240e-0f02-45b5-8fca-9f6503bb9c75.png)
+
+
 ### Nuclear Magnetic Resonance analysis
 The use of Nuclear Magnetic Resonance (NMR) data is used to analyze biological processes as they occur. By perturbing the electrons and analyzing the signals, movements can be tracked from nanosecond interactions. This NMR data tends to be stochastic and seemingly random, but with the use of principal component analysis and time series analysis certain phenomena were able to be extracted.
 
 
 ### GUTCP - A classical approach to the standard model
 The Grand Unified Theory of Classical Physics, develiped by Dr. Randall Mills, experiments with the idea of using electromagnetism to unify quantum mechanics with classical physics. These phenomena are simulated using python, starting with the double slit experiment and Starn-Gerlach with the "classical electron". 
-![image](https://user-images.githubusercontent.com/62311229/226679141-5f5824d7-2d00-439a-8616-b3fc049a86b6.png)
+![image](https://user-images.githubusercontent.com/62311229/226783807-6721c37c-c77c-4f61-ab65-1f8594c7dada.png)
 
 ## Education
 ### University of Georgia - B.S. Physics
