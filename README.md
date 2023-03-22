@@ -15,11 +15,7 @@ The Grand Unified Theory of Classical Physics, developed by Dr. Randall Mills, e
 ![image](https://user-images.githubusercontent.com/62311229/226791808-79d0d7e7-aaea-4e59-b5ca-6e6e268bfbd9.png)
  -current vector feilds forming the electromagnetic current of the classical electron. Domain of the BECVF and OCVF (middle). The two configurations are then combined to show the full geometric representation of the Orbitsphere (electron)
  
- ### Nuclear Magnetic Resonance analysis
-The use of Nuclear Magnetic Resonance (NMR) data is used to analyze biological processes as they occur. By perturbing the nuclei of atoms (similar to MRI) and recording the frequency of the radiation that is returned atomic movements can be tracked at the nanosecond scale. 
 
-### Molecular Dynamics 
-Molecular dynamics (MD) uses physicallys realistic physics packages to leapfrog atomic movements and predict biological and other atomic scale interactions. These interactions tends to be stochastic and provide large amounts of data. With the use of principal component and time series analysis physically significant phenomena are able to be extracted and measured. 
 
 ## Education
 ### University of Georgia - B.S. Physics
@@ -28,7 +24,7 @@ I recieved my Bachelor's degree in Physics with an emphasis in Electrodynamics a
 
 ### Georgia State University - Data Science, Chemistry
 ##### August 2019 - Present
-I have been taking adiditonal coursework to work towards a degree in Data Science and have been employed by the Chemistry Department developing analysis software since 2021. 
+Working towards a degree in Data Science with a Math minor (May 2024). I have been employed as a scientific programmer/pre-doctoral fellow by the Chemistry Department with Dr. Gregory Poon, developing analysis software for simulated atom files, Molecular Dynamics simulations and Nuclear Magnetic Resonance data. 
 
 ### Relevant Coursework
 #### Physics
@@ -41,15 +37,24 @@ Data Structures, Machine Learning (in Progress), Big Data Programming (In Progre
 ![image](https://user-images.githubusercontent.com/62311229/226680603-21aaea4c-7648-417e-83ac-7c1ce6031d4f.png)
 
 ## Research
-#### University of Georgia
-2018 - Physics Department - Dr.Zhao
+### University of Georgia
+2018 - Physics Department
 Working in an optics lab we measured the Faraday rotation of polarized light in various dielectric materials under a strong magnetic field. Controlling the rotation of polarized light has applicatopns in ranging technologies from visual display to fiber optics. 
 
-#### Georgia State University
-With the chemistry department at Georgia State University I was able to research methods of analyzing Nuclear Magnetic Resonance data and develop models of fitting relaxation data. The development  development of several chemical analysis models written in python. These models have been used to demonstrate phenomenon in Nuclear Magnetic Resonance (NMR) data as well as X-Ray Crystyllographic data. T
+### Georgia State University
+
+#### Nuclear Magnetic Resonance analysis
+The use of Nuclear Magnetic Resonance (NMR) data is used to analyze biological processes as they occur. By perturbing the nuclei of atoms (similar to MRI) and recording the frequency of the radiation that is returned atomic movements can be tracked at the nanosecond scale. 
+
+#### Molecular Dynamics 
+Molecular dynamics (MD) uses physicallys realistic physics packages to leapfrog atomic movements and predict biological and other atomic scale interactions. These interactions tends to be stochastic and provide large amounts of data. With the use of principal component and time series analysis physically significant phenomena are able to be extracted and measured. 
 
 
 ## Contact
+
+**Email:** [jackericson98@gmail.com](jackericson98@gmail.com) or [jericson1@gsu.edu](jericson1@gsu.edu)
+**LinkedIn:** [linkedin.com/in/jackericson98](https://linkedin.com/in/jackericson98)
+
 Feel free to reach out to me via email or LinkedIn if you have any questions or would like to discuss collaboration opportunities.
 
 Thank you for visiting my profile!
