@@ -5,7 +5,7 @@ I am a computational physicist with expertise in data science, numerical analysi
 
 ## Projects
 ### Vorpy 
-A molecular analysis tool for the study of simulated inter atomic partitionings. With traditional partitionings, power diagrams or Delaunay networks are constructed. This software creates it's partitionings using a sampling of points from a Voronoi S-Network providing more detailed measurements of volumes and surface areas of relevant atominc groupings (residues, chains, sheets, etc.) In combination with molecular simulation software, the evolution of these measurements can provide insight into key biological processes.
+A comprehensive Voronoi cell network generator for 3D spheres designed for simulated molecular dynamics (md) analysis. This software creates it's partitionings using a sampling of points from a Voronoi S-Network providing more detailed measurements of volumes and surface areas of relevant atomic groupings (residues, chains, sheets, etc.) In combination with molecular simulation software, the evolution of these measurements can provide insight into key biological processes.
 
 ![image](https://user-images.githubusercontent.com/62311229/226782162-57c6240e-0f02-45b5-8fca-9f6503bb9c75.png)
 
