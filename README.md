@@ -11,9 +11,9 @@ A comprehensive Voronoi cell network generator for 3D spheres designed for simul
 
 
 ### GUTCP - A classical approach to the standard model
-The Grand Unified Theory of Classical Physics, develiped by Dr. Randall Mills, experiments with the idea of using electromagnetism to unify quantum mechanics with classical physics. These phenomena are simulated using python, starting with the Young's double slit experiment and Stern-Gerlach with the "classical electron".
+The Grand Unified Theory of Classical Physics, developed by Dr. Randall Mills, experiments with the idea of using electromagnetism to unify quantum mechanics with classical physics. These phenomena are simulated using python, starting with the Young's double slit experiment and Stern-Gerlach with the "classical electron".
 ![image](https://user-images.githubusercontent.com/62311229/226791808-79d0d7e7-aaea-4e59-b5ca-6e6e268bfbd9.png)
- -current vector feilds forming the electromagnetic current of the classical electron. By rotating the red currents around their green angular momentum vector (left) the domain of the current can be described (middle). The two configurations are then combined to show the full geometric representation of the 
+ -current vector feilds forming the electromagnetic current of the classical electron. Domain of the BECVF and OCVF (middle). The two configurations are then combined to show the full geometric representation of the 
  
  ### Nuclear Magnetic Resonance analysis
 The use of Nuclear Magnetic Resonance (NMR) data is used to analyze biological processes as they occur. By perturbing the nuclei of atoms (similar to MRI) and recording the frequency of the radiation that is returned atomic movements can be tracked at the nanosecond scale. 
