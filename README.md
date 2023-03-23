@@ -48,7 +48,7 @@ Working in an optics lab we measured the Faraday rotation of polarized light in 
 The use of Nuclear Magnetic Resonance (NMR) data is used to analyze biological processes as they occur. By perturbing the nuclei of atoms (similar to MRI) and recording the frequency of the radiation that is returned atomic movements can be tracked at the nanosecond scale. 
 
 #### Molecular Dynamics 
-Molecular dynamics (MD) uses physicallys realistic physics packages to leapfrog atomic movements and predict biological and other atomic scale interactions. These interactions tends to be stochastic and provide large amounts of data. With the use of principal component and time series analysis physically significant phenomena are able to be extracted and measured. 
+Molecular dynamics (MD) uses physically realistic physics packages to leapfrog atomic movements and predict biological and other atomic scale interactions. These interactions tend to be stochastic and provide large amounts of data. With the use of principal component and time series analysis physically significant phenomena can be extracted and measured. 
 
 
 ## Contact
