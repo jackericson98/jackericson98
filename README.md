@@ -39,7 +39,7 @@ Data Structures, Machine Learning (in Progress), Big Data Programming (In Progre
 ## Research
 ### University of Georgia
 2018 - Physics Department<br\>
-Working in an optics lab we measured the Faraday rotation of polarized light in various dielectric materials under a strong magnetic field. Controlling the rotation of polarized light has applicatopns in ranging technologies from visual display to fiber optics. 
+Working in an optics lab we measured the Faraday rotation of polarized light in various dielectric materials under a strong magnetic field. Controlling the rotation of polarized light has applications in ranging technologies from visual display to fiber optics. 
 
 ### Georgia State University
 2021-Present - Chemistry Department<br\>
