@@ -53,7 +53,7 @@ Molecular dynamics (MD) uses physically realistic physics packages to leapfrog a
 
 ## Contact
 
-**Email:** [jackericson98@gmail.com](jackericson98@gmail.com) or [jericson1@gsu.edu](jericson1@gsu.edu)
+**Email:** [jackericson98@gmail.com](jackericson98@gmail.com) or [jericson1@gsu.edu](jericson1@gsu.edu)</br>
 **LinkedIn:** [linkedin.com/in/jackericson98](https://linkedin.com/in/jackericson98)
 
 Feel free to reach out to me via email or LinkedIn if you have any questions or would like to discuss collaboration opportunities.
