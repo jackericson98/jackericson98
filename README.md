@@ -1,7 +1,7 @@
 # Jack Ericson
 
 ## About Me
-I am a computational physicist with expertise in data science, numerical analysis and scientific simulations. I currently work at Georgia State University and specialize in developing software that solves complex problems in molecular analysis. I am passionate about using my skills in scince and technology to develop energy solutions to promote a more sustainable future. My career objective is to pursue a PhD in high energy Nuclear Physics to work towards developing the new generation of fusion powerplants that will power the future. 
+I am a computational physicist/chemist with expertise in data science, numerical analysis and scientific simulations. I currently work at Georgia State University, where I recieved my Master's in Chemistry and specialize in developing software that solves complex problems in molecular analysis and gometric decompositions. I am passionate about using my skills in scince and technology to develop solutions to promote a more sustainable future.
 
 ## Projects
 ### Vorpy 
@@ -18,6 +18,11 @@ The Grand Unified Theory of Classical Physics, developed by Dr. Randall Mills, e
 
 
 ## Education
+
+### Gerogia State University - M.S. Chemistry
+#### August 2023 - December 2024
+Recieved a M.S. in chemistry on a thesis track 
+
 ### University of Georgia - B.S. Physics
 ##### January 2017 - August 2019
 I recieved my Bachelor's degree in Physics with an emphasis in Electrodynamics and Computational Optics. I was able to graduate a year early while still taking adiditonal coursework in Mathematics, Engineering and Computer Science 
@@ -27,8 +32,12 @@ I recieved my Bachelor's degree in Physics with an emphasis in Electrodynamics a
 Working towards a degree in Data Science with a Math minor (May 2024). I have been employed as a scientific programmer/pre-doctoral fellow by the Chemistry Department with Dr. Gregory Poon, developing analysis software for simulated atom files, Molecular Dynamics simulations and Nuclear Magnetic Resonance data. 
 
 ### Relevant Coursework
+#### Computer Science
+Algorthms, Datastructures, Web Design, Software Engineering
+#### Chemistry
+Thermodynamics, Absorbance and Fluoresence Spectroscopy, Chemical Biology, Advanced Research
 #### Physics
-Modern Physics, Math Methods in Physics, Thermodynamics, Electicity and Magnetism, Optics, Electronics, Quantum Mechanics, Mechanics
+Modern Physics, Math Methods in Physics, Thermodynamics, Electricity and Magnetism, Optics, Electronics, Quantum Mechanics, Mechanics
 #### Mathematics
 Partial Differential Equations, Math Proofs, Sequences and Series, Advanced Linear Algebra
 #### Computer/Data Science
@@ -44,6 +53,8 @@ Working in an optics lab we measured the Faraday rotation of polarized light in 
 ### Georgia State University
 2021-Present - Chemistry Department<br\>
 
+#### Software Development for Geometric Analasys of 
+
 #### Nuclear Magnetic Resonance analysis
 The use of Nuclear Magnetic Resonance (NMR) data is used to analyze biological processes as they occur. By perturbing the nuclei of atoms (similar to MRI) and recording the frequency of the radiation that is returned atomic movements can be tracked at the nanosecond scale. 
 
@@ -52,10 +63,10 @@ Molecular dynamics (MD) uses physically realistic physics packages to leapfrog a
 
 
 ## Contact
-
+**Website:** [ericson-labs.com](ericson-labs.com)
 **Email:** [jackericson98@gmail.com](jackericson98@gmail.com) or [jericson1@gsu.edu](jericson1@gsu.edu)</br>
 **LinkedIn:** [linkedin.com/in/jackericson98](https://linkedin.com/in/jackericson98)
 
-Feel free to reach out to me via email or LinkedIn if you have any questions or would like to discuss collaboration opportunities.
+Feel free to reach out to me via website, email, or LinkedIn if you have any questions or would like to discuss collaboration opportunities.
 
 Thank you for visiting my profile!
