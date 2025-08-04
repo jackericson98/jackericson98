@@ -1,7 +1,7 @@
 # Jack Ericson
 
 ## About Me
-I am a computational physicist/chemist with expertise in data science, numerical analysis and scientific simulations. I currently work at Georgia State University, where I recieved my Master's in Chemistry and specialize in developing software that solves complex problems in molecular analysis and gometric decompositions. I am passionate about using my skills in scince and technology to develop solutions to promote a more sustainable future.
+I am a computational physicist/chemist with expertise in data science, numerical analysis and scientific simulations. I currently work at Georgia State University, where I recieved my Master's in Chemistry and specialize in developing software that solves complex problems in molecular analysis and gometric decompositions. I am passionate about using my skills in science and technology to develop solutions to promote a more sustainable future.
 
 ## Projects
 ### Vorpy 
@@ -63,7 +63,7 @@ Molecular dynamics (MD) uses physically realistic physics packages to leapfrog a
 
 
 ## Contact
-**Website:** [ericson-labs.com](ericson-labs.com)</br>
+**Website:** [ericsonlabs.com](ericsonlabs.com)</br>
 **Email:** [jackericson98@gmail.com](jackericson98@gmail.com) or [jericson1@gsu.edu](jericson1@gsu.edu)</br>
 **LinkedIn:** [linkedin.com/in/jackericson98](https://linkedin.com/in/jackericson98)
 
