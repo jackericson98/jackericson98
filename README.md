@@ -1,11 +1,17 @@
 # Jack Ericson
 
 ## About Me
-I am a computational physicist/chemist with expertise in data science, numerical analysis and scientific simulations. I currently work at Georgia State University, where I recieved my Master's in Chemistry and specialize in developing software that solves complex problems in molecular analysis and gometric decompositions. I am passionate about using my skills in science and technology to develop solutions to promote a more sustainable future.
+Results-driven scientific programmer with over 5 years of experience in software development and design. Skilled in developing complex applications for the analysis and modeling of scientific research across biology, chemistry, physics, and mathematical disciplines. Committed to contributing towards a sustainable future by leveraging strong cross-disciplinary scientific background partnered with my computer science, machine learning, and artificial intelligence experience to develop cutting-edge scientific software to advance our sustainable future.
 
 ## Projects
-### Vorpy 
-A comprehensive Voronoi cell network generator for 3D spheres designed for simulated molecular dynamics (md) analysis. This software creates it's partitionings using a sampling of points from a Voronoi S-Network providing more detailed measurements of volumes and surface areas of relevant atomic groupings (residues, chains, sheets, etc.) In combination with molecular simulation software, the evolution of these measurements can provide insight into key biological processes.
+<p align="center">
+  <img width="300" height="300" alt="VorpyIcon" src="https://github.com/user-attachments/assets/1a05cec4-6751-40ef-999f-702b8b629fdf" />
+</p>
+
+# VorPy
+
+![TOC-page001](https://github.com/user-attachments/assets/acbdf9f5-3770-4c8c-b922-aeb681542c96)
+Vorpy is a spatial partitioning tool designed to solve, analyze, and export Additively Weighted, Power (Leguerre), and/or Primitive (Delaunay) Voronoi diagrams for systems of 3D spheres. This tool can accept atomic coordinate files of all major file extensions (or txt files in the right format), solve their Voronoi graphs and output visualizations and analysis of their geometry. With both a grapical user interface for simple cases and a command line interface for more complicated or cases VorPy has a robust input/output abilities.
 
 ![image](https://user-images.githubusercontent.com/62311229/226782162-57c6240e-0f02-45b5-8fca-9f6503bb9c75.png)
 
