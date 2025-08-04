@@ -8,13 +8,24 @@ Results-driven scientific programmer with over 5 years of experience in software
   <img width="300" height="300" alt="VorpyIcon" src="https://github.com/user-attachments/assets/1a05cec4-6751-40ef-999f-702b8b629fdf" />
 </p>
 
-# VorPy
+### VorPy
 
 ![TOC-page001](https://github.com/user-attachments/assets/acbdf9f5-3770-4c8c-b922-aeb681542c96)
 Vorpy is a spatial partitioning tool designed to solve, analyze, and export Additively Weighted, Power (Leguerre), and/or Primitive (Delaunay) Voronoi diagrams for systems of 3D spheres. This tool can accept atomic coordinate files of all major file extensions (or txt files in the right format), solve their Voronoi graphs and output visualizations and analysis of their geometry. With both a grapical user interface for simple cases and a command line interface for more complicated or cases VorPy has a robust input/output abilities.
 
 ![image](https://user-images.githubusercontent.com/62311229/226782162-57c6240e-0f02-45b5-8fca-9f6503bb9c75.png)
 
+### Coarsify
+<p align="center">
+  <img width="640" height="456" alt="phe_scbb_ad_snapshot" src="https://github.com/user-attachments/assets/77fa0805-ffc1-4bbb-b9ea-9666ef6909b3" />
+</p>
+
+A Python tool for coarse-graining molecular structures from various file formats (.pdb, .gro, .mol, .cif, .xyz) into simplified representations using different coarse-graining schemes. Designed for researchers working with molecular dynamics simulations who need to approximate molecules as fewer spheres or perform structural analysis.
+
+
+### foam_gen
+
+This project is designed to create 3-dimensional random ensembles of spheres, mimicking the bubbles in foam based on user-defined parameters.
 
 ### GUTCP - A classical approach to the standard model
 The Grand Unified Theory of Classical Physics, developed by Dr. Randall Mills, experiments with the idea of using electromagnetism to unify quantum mechanics with classical physics. These phenomena are simulated using python, starting with the Young's double slit experiment and Stern-Gerlach with the "classical electron".
