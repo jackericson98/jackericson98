@@ -49,17 +49,21 @@ The Grand Unified Theory of Classical Physics, developed by Dr. Randall Mills, e
 
 # Education
 
-### Gerogia State University - M.S. Chemistry
+### Chemistry, M.S. - Gerogia State University
 #### August 2023 - December 2024
-Recieved a M.S. in chemistry on a thesis track 
+- Graduated early on the thesis track developing open-source software for additively weighted Voronoi diagrams that measurably advanced standard partitioning schemes for geometric modeling of spherical bodies.
+- Relevant coursework: Thermodynamics and Kinetics, Absorption and Fluorescence Spectroscopy, Chemical Biology, and Directed Research Methods.
+- Data Science / Applied Mathematics Coursework: · Data Structures, Machine Learning, Big Data Programming, Advanced Linear Algebra, Partial Differential Equations, Software Engineering.
+- Thesis: The Geometry of Spatial Decomposition: Evaluating Partitioning Schemes in Physical Chemical Systems.
+- 3.93 GPA, Dean's List Fall 2023, Spring 2024, Fall 2024.
 
-### University of Georgia - B.S. Physics
+
+### Physics, B.S. - University of Georgia
 ##### January 2017 - August 2019
-I recieved my Bachelor's degree in Physics with an emphasis in Electrodynamics and Computational Optics. I was able to graduate a year early while still taking adiditonal coursework in Mathematics, Engineering and Computer Science 
 
-### Georgia State University - Data Science, Chemistry
-##### August 2019 - Present
-Working towards a degree in Data Science with a Math minor (May 2024). I have been employed as a scientific programmer/pre-doctoral fellow by the Chemistry Department with Dr. Gregory Poon, developing analysis software for simulated atom files, Molecular Dynamics simulations and Nuclear Magnetic Resonance data. 
+-	Research (Optics): Experimented with Faraday rotation of polarized light in various dielectric materials under a strong magnetic field. Controlling the rotation of polarized light has applications in various technologies from visual displays to fiber optics.
+-	Major coursework emphasized electromagnetism and computational physics. Graduated early.
+- Relevant coursework: Mechanics, Electricity and Magnetism (I, II), Quantum Mechanics, Thermodynamics, Mathematical Proofs, Sequences and Series.
 
 ### Relevant Coursework
 #### Computer Science
