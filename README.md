@@ -1,23 +1,24 @@
 # Jack Ericson
 
-## About Me
+# About Me
 I'm a results-driven scientific programmer with 5+ years of experience developing tools for data analysis, modeling, and visualization in the physical and life sciences. My work spans applications in chemistry, biology, physics, and applied mathematics — with a focus on transforming complex scientific concepts into accessible, performant software.
 
 My background blends a strong foundation in science with practical expertise in computer science, machine learning, and artificial intelligence. I'm passionate about building open-source tools that push scientific discovery forward and contribute to a more sustainable and data-driven future.
 
-## Projects
+# Projects
 <p align="center">
   <img width="4576" height="1479" alt="AllThreeBanner" src="https://github.com/user-attachments/assets/51250b65-a685-4ef5-8873-33a1fc4342ff" />
 </p>
 
-### VorPy
-
-![TOC-page001](https://github.com/user-attachments/assets/acbdf9f5-3770-4c8c-b922-aeb681542c96)
+## VorPy
 Vorpy is a spatial partitioning tool designed to solve, analyze, and export Additively Weighted, Power (Leguerre), and/or Primitive (Delaunay) Voronoi diagrams for systems of 3D spheres. This tool can accept atomic coordinate files of all major file extensions (or txt files in the right format), solve their Voronoi graphs and output visualizations and analysis of their geometry. With both a grapical user interface for simple cases and a command line interface for more complicated or cases VorPy has a robust input/output abilities.
+
+### Gallery
+![TOC-page001](https://github.com/user-attachments/assets/acbdf9f5-3770-4c8c-b922-aeb681542c96)
 
 ![image](https://user-images.githubusercontent.com/62311229/226782162-57c6240e-0f02-45b5-8fca-9f6503bb9c75.png)
 
-### Coarsify
+## Coarsify
 <p align="center">
   <img width="3789" height="1190" alt="CoarsifyBanner-page001" src="https://github.com/user-attachments/assets/c8ece6cb-f889-4635-b833-6a112ba8e9b2" />
 </p>
@@ -25,7 +26,7 @@ Vorpy is a spatial partitioning tool designed to solve, analyze, and export Addi
 A Python tool for coarse-graining molecular structures from various file formats (.pdb, .gro, .mol, .cif, .xyz) into simplified representations using different coarse-graining schemes. Designed for researchers working with molecular dynamics simulations who need to approximate molecules as fewer spheres or perform structural analysis.
 
 
-### foam_gen
+## Foamify
 
 This project is designed to create 3-dimensional random ensembles of spheres, mimicking the bubbles in foam based on user-defined parameters.
 
