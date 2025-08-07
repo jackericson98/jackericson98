@@ -11,7 +11,7 @@ My background blends a strong foundation in science with practical expertise in 
 </p>
 
 ## VorPy
-Vorpy is a spatial partitioning tool designed to solve, analyze, and export Additively Weighted, Power (Leguerre), and/or Primitive (Delaunay) Voronoi diagrams for systems of 3D spheres. This tool can accept atomic coordinate files of all major file extensions (or txt files in the right format), solve their Voronoi graphs and output visualizations and analysis of their geometry. With both a grapical user interface for simple cases and a command line interface for more complicated or cases VorPy has a robust input/output abilities.
+[Vorpy](https://github.com/jackericson98/vorpy) is a spatial partitioning tool designed to solve, analyze, and export Additively Weighted, Power (Leguerre), and/or Primitive (Delaunay) Voronoi diagrams for systems of 3D spheres. This tool can accept atomic coordinate files of all major file extensions (or txt files in the right format), solve their Voronoi graphs and output visualizations and analysis of their geometry. With both a grapical user interface for simple cases and a command line interface for more complicated or cases VorPy has a robust input/output abilities.
 
 ### Gallery
 ![TOC-page001](https://github.com/user-attachments/assets/acbdf9f5-3770-4c8c-b922-aeb681542c96)
