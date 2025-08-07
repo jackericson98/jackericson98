@@ -1,11 +1,13 @@
 # Jack Ericson
 
 ## About Me
-Results-driven scientific programmer with over 5 years of experience in software development and design. Skilled in developing complex applications for the analysis and modeling of scientific research across biology, chemistry, physics, and mathematical disciplines. Committed to contributing towards a sustainable future by leveraging strong cross-disciplinary scientific background partnered with my computer science, machine learning, and artificial intelligence experience to develop cutting-edge scientific software to advance our sustainable future.
+I'm a results-driven scientific programmer with 5+ years of experience developing tools for data analysis, modeling, and visualization in the physical and life sciences. My work spans applications in chemistry, biology, physics, and applied mathematics — with a focus on transforming complex scientific concepts into accessible, performant software.
+
+My background blends a strong foundation in science with practical expertise in computer science, machine learning, and artificial intelligence. I'm passionate about building open-source tools that push scientific discovery forward and contribute to a more sustainable and data-driven future.
 
 ## Projects
 <p align="center">
-  <img width="300" height="300" alt="VorpyIcon" src="https://github.com/user-attachments/assets/1a05cec4-6751-40ef-999f-702b8b629fdf" />
+  <img width="4576" height="1479" alt="AllThreeBanner" src="https://github.com/user-attachments/assets/51250b65-a685-4ef5-8873-33a1fc4342ff" />
 </p>
 
 ### VorPy
@@ -17,7 +19,7 @@ Vorpy is a spatial partitioning tool designed to solve, analyze, and export Addi
 
 ### Coarsify
 <p align="center">
-  <img width="640" height="456" alt="phe_scbb_ad_snapshot" src="https://github.com/user-attachments/assets/77fa0805-ffc1-4bbb-b9ea-9666ef6909b3" />
+  <img width="3789" height="1190" alt="CoarsifyBanner-page001" src="https://github.com/user-attachments/assets/c8ece6cb-f889-4635-b833-6a112ba8e9b2" />
 </p>
 
 A Python tool for coarse-graining molecular structures from various file formats (.pdb, .gro, .mol, .cif, .xyz) into simplified representations using different coarse-graining schemes. Designed for researchers working with molecular dynamics simulations who need to approximate molecules as fewer spheres or perform structural analysis.
