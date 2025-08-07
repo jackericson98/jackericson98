@@ -18,17 +18,27 @@ Vorpy is a spatial partitioning tool designed to solve, analyze, and export Addi
 
 ![image](https://user-images.githubusercontent.com/62311229/226782162-57c6240e-0f02-45b5-8fca-9f6503bb9c75.png)
 
+
+<img width="3300" height="1210" alt="F1-page003" src="https://github.com/user-attachments/assets/14924a78-4ca5-43c7-95ce-c66d8337a83c" />
+
+
+
+
 ## Coarsify
 <p align="center">
   <img width="3789" height="1190" alt="CoarsifyBanner-page001" src="https://github.com/user-attachments/assets/c8ece6cb-f889-4635-b833-6a112ba8e9b2" />
 </p>
 
-A Python tool for coarse-graining molecular structures from various file formats (.pdb, .gro, .mol, .cif, .xyz) into simplified representations using different coarse-graining schemes. Designed for researchers working with molecular dynamics simulations who need to approximate molecules as fewer spheres or perform structural analysis.
+[Coarsify](https://github.com/jackericson98/coarsify) is a Python tool for coarse-graining molecular structures from various file formats (.pdb, .gro, .mol, .cif, .xyz) into simplified representations using different coarse-graining schemes. Designed for researchers working with molecular dynamics simulations who need to approximate molecules as fewer spheres or perform structural analysis.
 
 
 ## Foamify
 
-This project is designed to create 3-dimensional random ensembles of spheres, mimicking the bubbles in foam based on user-defined parameters.
+[Foamify](https://github.com/jackericson98/foamify) (formerly foam_gen) is an interactive, randomized foam generator designed for scientific modeling and visualization. Foamify creates coordinate files specifying the locations and radii of a randomly generated ensemble of spheres, allowing users to produce custom foams for a wide range of applications. These virtual foams can be used to simulate and analyze physics-based systems such as aerated media, porous materials, and other complex microstructures. Sphere generation is governed by a flexible set of user-defined parameters, offering full control over the statistical and geometric characteristics of the output.
+
+<p align="center">
+  <img width="5100" height="1100" alt="FoamifyCreateFoamBanner" src="https://github.com/user-attachments/assets/10f4939a-781a-4098-8303-085992000674" />
+</p>
 
 ### GUTCP - A classical approach to the standard model
 The Grand Unified Theory of Classical Physics, developed by Dr. Randall Mills, experiments with the idea of using electromagnetism to unify quantum mechanics with classical physics. These phenomena are simulated using python, starting with the Young's double slit experiment and Stern-Gerlach with the "classical electron".
