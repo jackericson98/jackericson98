@@ -40,14 +40,14 @@ My background blends a strong foundation in science with practical expertise in 
   <img width="5100" height="1100" alt="FoamifyCreateFoamBanner" src="https://github.com/user-attachments/assets/10f4939a-781a-4098-8303-085992000674" />
 </p>
 
-### GUTCP - A classical approach to the standard model
+## GUTCP - A classical approach to the standard model
 The Grand Unified Theory of Classical Physics, developed by Dr. Randall Mills, experiments with the idea of using electromagnetism to unify quantum mechanics with classical physics. These phenomena are simulated using python, starting with the Young's double slit experiment and Stern-Gerlach with the "classical electron".
 ![image](https://user-images.githubusercontent.com/62311229/226791808-79d0d7e7-aaea-4e59-b5ca-6e6e268bfbd9.png)
  -current vector feilds forming the electromagnetic current of the classical electron. Domain of the BECVF and OCVF (middle). The two configurations are then combined to show the full geometric representation of the Orbitsphere (electron)
  
 
 
-## Education
+# Education
 
 ### Gerogia State University - M.S. Chemistry
 #### August 2023 - December 2024
