@@ -10,7 +10,7 @@ My background blends a strong foundation in science with practical expertise in 
   <img width="4576" height="1479" alt="AllThreeBanner" src="https://github.com/user-attachments/assets/51250b65-a685-4ef5-8873-33a1fc4342ff" />
 </p>
 
-## VorPy
+## VorPy - A molecular partitioning tool
 [Vorpy](https://github.com/jackericson98/vorpy) is a spatial partitioning tool designed to solve, analyze, and export Additively Weighted, Power (Leguerre), and/or Primitive (Delaunay) Voronoi diagrams for systems of 3D spheres. This tool can accept atomic coordinate files of all major file extensions (or txt files in the right format), solve their Voronoi graphs and output visualizations and analysis of their geometry. With both a grapical user interface for simple cases and a command line interface for more complicated or cases VorPy has a robust input/output abilities.
 
 ### Gallery
@@ -24,7 +24,7 @@ My background blends a strong foundation in science with practical expertise in 
 
 
 
-## Coarsify
+## Coarsify - A Molecular coarse-graining tool
 <p align="center">
   <img width="3789" height="1190" alt="CoarsifyBanner-page001" src="https://github.com/user-attachments/assets/c8ece6cb-f889-4635-b833-6a112ba8e9b2" />
 </p>
@@ -32,7 +32,7 @@ My background blends a strong foundation in science with practical expertise in 
 [Coarsify](https://github.com/jackericson98/coarsify) is a Python tool for coarse-graining molecular structures from various file formats (.pdb, .gro, .mol, .cif, .xyz) into simplified representations using different coarse-graining schemes. Designed for researchers working with molecular dynamics simulations who need to approximate molecules as fewer spheres or perform structural analysis.
 
 
-## Foamify
+## Foamify - A Random foam generating tool
 
 [Foamify](https://github.com/jackericson98/foamify) (formerly foam_gen) is an interactive, randomized foam generator designed for scientific modeling and visualization. Foamify creates coordinate files specifying the locations and radii of a randomly generated ensemble of spheres, allowing users to produce custom foams for a wide range of applications. These virtual foams can be used to simulate and analyze physics-based systems such as aerated media, porous materials, and other complex microstructures. Sphere generation is governed by a flexible set of user-defined parameters, offering full control over the statistical and geometric characteristics of the output.
 
